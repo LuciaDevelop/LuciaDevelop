@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LuciaDevelop
-- 👀 I’m interested in Web Development and Data Analytics
-- 🌱 I’m currently learning JavaScript, React and Python
-- 💞️ I’m looking to collaborate on anything that I can add to my portfolio
+- 👀 I’m interested in Data Science/Analytics
+- 🌱 I’m currently learning Python and SQL.
 - 📫 How to reach me: lucia.echeverri99@gmail.com or 07762728238
 
 <!---
