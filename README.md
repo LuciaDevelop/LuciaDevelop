@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuciaDevelop
-- 👀 I’m interested in Data Science/Analytics
+- 👀 I’m interested in Financial Data Science/Analytics
 - 🌱 I’m currently learning Python and SQL.
 - 📫 How to reach me: lucia.echeverri99@gmail.com or 07762728238
 
